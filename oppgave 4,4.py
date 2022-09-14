@@ -1,0 +1,12 @@
+tall1 = input("tall1:")
+tall2 = input("tall2:")
+tall3 = input("tall3:")
+tall4 = input("tall4:")
+tall5 = input("tall5:")
+tall6 = input("tall6:")
+tall7 = input("tall7:")
+tall8 = input("tall8:")
+tall9 = input("tall9:")
+tall10 = input("tall10:")
+
+gjennomsnitt = (eval(tall1 + tall2 + tall3 + tall4 + tall5+ tall6 + tall7 + tall8 + tall9 + tall10))
